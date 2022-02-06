@@ -1,0 +1,14 @@
+{
+  "name": "dream_houses",
+  "version": "1.0.0",
+  "description": "Dream_Houses webpage",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Nizar",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
